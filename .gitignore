@@ -1,0 +1,20 @@
+venv/
+.venv/
+venv_lab/
+**/venv/
+**/.venv/
+**/venv_lab/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+node_modules/
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Private identity datasets
+dataset/
